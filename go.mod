@@ -1,4 +1,4 @@
-module gh.iiji.jp/legs-v2/legs-message
+module github.com/iij/legs-message
 
 go 1.12
 
