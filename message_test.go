@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	message "gh.iiji.jp/legs-v2/legs-message"
+	message "github.com/iij/legs-message"
 )
 
 func TestMarshal(t *testing.T) {

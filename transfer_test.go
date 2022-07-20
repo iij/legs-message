@@ -3,7 +3,7 @@ package message_test
 import (
 	"testing"
 
-	message "gh.iiji.jp/legs-v2/legs-message"
+	message "github.com/iij/legs-message"
 	"github.com/stretchr/testify/assert"
 )
 
